@@ -1,2 +1,1 @@
-# Deforestation-Fire
-AICTE-Internship Cycle 2
+deleted old csv
